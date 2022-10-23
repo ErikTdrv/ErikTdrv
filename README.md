@@ -1,7 +1,7 @@
 ## Hi there, my name is Erik
-- *Currently studying Front-End Development at Software University.*
+#### -*Currently studying Front-End Development at Software University.*
 
-<h3 align="left">Languages and tools:</h3>
+<h3 align="left">✏️ Languages and tools:</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -33,7 +33,7 @@
     </a>
 </p>
 
-<h3>📫How to contact me?</h3>
+<h3>📫 How to contact me?</h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/erik-todorov-50b60b239/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
