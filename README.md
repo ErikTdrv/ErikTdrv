@@ -1,5 +1,5 @@
 ### Hi there, my name is Erik
-## I'm currently studying Front-End Development at Software University.
+I'm currently studying Front-End Development at Software University.
 
 <!--
 **ErikTdrv/ErikTdrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
