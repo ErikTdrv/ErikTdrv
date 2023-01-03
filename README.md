@@ -1,12 +1,12 @@
 ## Hi there, my name is Erik
 #### -*Currently studying Front-End Development at Software University.*
 
-<h3 align="left">✏️ Languages and tools:</h3>
+## ✏️ Languages and tools:
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=js,ts,angular,express,mongodb,css,html,git,nodejs" />
 </a>
 
-<h3>📫 How to contact me?</h3>
+## 📫 How to contact me?
 <div id="badges">
   <a href="https://www.linkedin.com/in/erik-todorov-50b60b239/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,9 +19,10 @@
   </a>
 </div>
 
-<h3>🅿️ Projects</h3>
+## 🅿️ Projects
 
 * CarsIT - Car sales app made for educational purpose, created with Angular as front-End, Node.js as Back-End and MongoDB as database. Currently deployed at https://carsit-fe.ew.r.appspot.com/
 
-
+## 📊 GitHub Stats 
+![](https://github-readme-streak-stats.herokuapp.com/?user=ErikTdrv&theme=dark&hide_border=false)
 
