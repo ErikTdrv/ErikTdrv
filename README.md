@@ -21,7 +21,7 @@
 
 ## 🅿️ Projects
 
-* CarsIT - Car sales app made for educational purpose, created with Angular as front-End, Node.js as Back-End and MongoDB as database. Currently deployed at https://carsit-fe.ew.r.appspot.com/
+* CarsIT - Car sales app made for educational purpose, created with Angular as Front-End, Node.js as Back-End and MongoDB as database. Currently deployed at https://carsit-fe.ew.r.appspot.com
 
 ## 📊 GitHub Stats 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ErikTdrv&theme=dark&hide_border=false)
