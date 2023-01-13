@@ -6,7 +6,7 @@
    <img src="https://skillicons.dev/icons?i=js,ts,angular,express,mongodb,css,html,git,nodejs" />
 </a>
 
-## 📫 How to contact me?
+## 📫 How to reach me?
 <div id="badges">
   <a href="https://www.linkedin.com/in/erik-todorov-50b60b239/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
