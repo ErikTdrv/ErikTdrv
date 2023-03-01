@@ -3,7 +3,7 @@
 
 ## ✏️ Languages and tools:
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,ts,angular,express,mongodb,css,html,git,nodejs" />
+   <img src="https://skillicons.dev/icons?i=js,ts,angular,react,express,mongodb,css,html,git,nodejs" />
 </a>
 
 ## 📫 How to reach me?
