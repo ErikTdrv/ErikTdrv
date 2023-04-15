@@ -1,6 +1,6 @@
 ## Hi there, my name is Erik
-#### -*Graduated from Software University as a Full-Stack Developer with JavaScript.*
-### -*Currently looking for a new job opportunity.*
+### -*Graduated from Software University as a Full-Stack Developer with JavaScript.*
+#### -*Currently looking for a new job opportunity.*
 
 ## ✏️ Languages and tools:
 <a href="https://skillicons.dev">
