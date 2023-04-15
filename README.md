@@ -1,5 +1,6 @@
 ## Hi there, my name is Erik
-#### -*Currently studying Front-End Development at Software University.*
+#### -*Graduated from Software University as a Full-Stack Developer with JavaScript.*
+### -*Currently looking for a new job opportunity.*
 
 ## ✏️ Languages and tools:
 <a href="https://skillicons.dev">
