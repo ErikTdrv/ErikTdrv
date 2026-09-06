@@ -1,5 +1,5 @@
 ## Hi there, my name is Erik
-### - *Graduated from Software University as a Full-Stack Developer with JavaScript.*
+### -*Graduated from Software University as a Full-Stack Developer with JavaScript.*
 #### -*Currently working as a Sofware Engineer at Sofia Stars.*
 
 ## ✏️ Languages and tools:
